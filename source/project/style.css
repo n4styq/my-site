@@ -68,17 +68,17 @@ h2 {
 
 .feature-kitten {
   padding-top: 60px;
-  background-image: url("source/project/img/bottle.svg");
+  background-image: url("img/bottle.svg");
 }
 
 .feature-cat {
   padding-top: 60px;
-  background-image: url("source/project/img/cat.svg");
+  background-image: url("img/cat.svg");
 }
 
 .feature-train {
   padding-top: 60px;
-  background-image: url("source/project/img/whistle.svg");
+  background-image: url("img/whistle.svg");
 }
 
 .skills-list {
