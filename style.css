@@ -73,15 +73,6 @@ body {
   margin: 0 0 120px;
 }
 
-.subheading {
-  margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 64px;
-  line-height: 80px;
-  font-weight: 400;
-  text-align: center;
-}
-
 .user-image {
   margin: 0 0 32px;
   text-align: center;
@@ -133,10 +124,6 @@ body {
   height: 12px;
   background-color: #288be6;
   border-radius: 6px;
-}
-
-.portfolio {
-  margin: 0 0 120px;
 }
 
 .projects {
