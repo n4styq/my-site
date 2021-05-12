@@ -183,8 +183,10 @@ body {
 }
 
 .user-image img {
-  width: 640px;
-  height: 640px;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 800px;
+  height: 800px;
   object-fit: cover;
 }
 
